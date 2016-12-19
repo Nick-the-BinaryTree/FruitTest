@@ -1,7 +1,7 @@
 # FruitTest
-A fruit-based Python Chrome testing script.
-
 ![ScreenShot](http://i.imgur.com/4ihfroT.png)
+
+A fruit-based Python Chrome testing script.
 
 Usage: "python FruitTest.py [number of fruit]"
 
